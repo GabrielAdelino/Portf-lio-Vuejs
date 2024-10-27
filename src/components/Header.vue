@@ -40,6 +40,7 @@
 
 
 nav ul {
+  font-family: Open Sans, sans serif;
   list-style-type: none;
   display: flex;
   justify-content: space-between;

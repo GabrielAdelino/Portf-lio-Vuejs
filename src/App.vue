@@ -55,4 +55,8 @@ html {
   color: #2c3e50;
   /* margin-top: 60px; */
 }
+
+#home{
+  font-family: Roboto, sans serif;
+}
 </style>
